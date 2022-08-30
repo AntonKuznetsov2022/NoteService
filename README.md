@@ -3,7 +3,7 @@
 1. text - текст заметки
 
 # Поля - Comment
-1. id_note - id заявки
+1. id_note - id заметки
 1. message - текст комментария
 
 # Операции с заметками (NoteService)
